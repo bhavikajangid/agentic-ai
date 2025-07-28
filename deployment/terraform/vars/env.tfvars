@@ -1,7 +1,7 @@
 staging_project_id = "smart-wallet-b9b00"
 prod_project_id = "smart-467315"
 cicd_runner_project_id = "smart-467315"
-region = "us-west1"
+region = "us-central1"
 repository_name = "agentic-a"
 repository_owner = "bhavikajangid"
 host_connection_name = "git-agentic-a"
