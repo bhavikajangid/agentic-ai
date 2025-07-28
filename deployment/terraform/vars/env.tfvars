@@ -1,19 +1,11 @@
-# Project name used for resource naming
-project_name = "my-awesome-agent"
-
-# Your Production Google Cloud project id
-prod_project_id = "your-production-project-id"
-
-# Your Staging / Test Google Cloud project id
-staging_project_id = "your-staging-project-id"
-
-# Your Google Cloud project ID that will be used to host the Cloud Build pipelines.
-cicd_runner_project_id = "your-cicd-project-id"
-# Name of the host connection you created in Cloud Build
-host_connection_name = "git-my-awesome-agent"
-
-# Name of the repository you added to Cloud Build
-repository_name = "my-awesome-agent"
-
-# The Google Cloud region you will use to deploy the infrastructure
+staging_project_id = "smart-wallet-b9b00"
+prod_project_id = "smart-467315"
+cicd_runner_project_id = "smart-467315"
 region = "us-west1"
+repository_name = "agentic-a"
+repository_owner = "bhavikajangid"
+host_connection_name = "git-agentic-a"
+create_cb_connection = true
+create_repository = false
+github_app_installation_id = "78045902"
+github_pat_secret_id = "git-agentic-a-github-oauthtoken-7e69d4"
