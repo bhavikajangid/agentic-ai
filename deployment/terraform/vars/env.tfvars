@@ -8,4 +8,4 @@ host_connection_name = "git-agentic-ai"
 create_cb_connection = true
 create_repository = false
 github_app_installation_id = "78045902"
-github_pat_secret_id = "git-agentic-ai-github-oauthtoken-7e69d4"
+github_pat_secret_id = "git-agentic-a-github-oauthtoken-7e69d4"
